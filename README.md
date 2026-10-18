@@ -1,4 +1,4 @@
-# Robô Navegador de Labirinto — LEGO SPIKE
+# Robô Navegador de Labirinto: LEGO SPIKE
 
 ## Descrição do projeto
 
@@ -10,7 +10,7 @@ As curvas do robô são executadas com o auxílio do giroscópio embutido, que f
 
 ## Disciplina
 
-Princípios de Robótica — PUCPR, 2025
+Princípios de Robótica, PUCPR, 2025
 
 ## Tecnologias utilizadas
 
@@ -21,7 +21,7 @@ Princípios de Robótica — PUCPR, 2025
 
 ## Estrutura do repositório
 
-- `labirinto.py` — código-fonte do programa de navegação autônoma, extraído do projeto LEGO SPIKE (`.llsp3`).
+- `labirinto.py`: código-fonte do programa de navegação autônoma, extraído do projeto LEGO SPIKE (`.llsp3`).
 
 ## Contexto acadêmico
 
